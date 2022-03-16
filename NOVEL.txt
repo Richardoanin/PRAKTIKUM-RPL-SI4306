@@ -52,8 +52,6 @@ kumbangnya berkerut penuh senyum.
 Paman Vernon mengeluarkan suara serak yang aneh. "Saya meminta Anda segera
 pergi, Sir!" katanya."Anda menjebol pintu dan masuk tanpa izin."
 
-
-
 "Terakhir kali aku melihatmu, kau masih bayi," kata si raksasa. "Kau mirip sekali
 ayahmu, tapi matamu mata ibumu."
 
@@ -68,6 +66,9 @@ case 3
  
 Paman Vernon mengeluarkan suara aneh lagi, seperti cicit tikus yang terinjak.
 "Yang jelas, Harry," kata si raksasa, berbalik membelakangi keluarga Dursley,
+
+"selamat ulang tahun untukmu, selamat panjang umur. Bawa sesuatu buatmu—mungkin tadi kududuki,
+tapi rasanya pasti masih enak."
 
 Harry menengadah menatap si raksasa. Dia bermaksud mengucapkan terima kasih,
 tetapi kata-katanya menghilang dalam perjalanan ke mulutnya, dan yang dikatakannya
