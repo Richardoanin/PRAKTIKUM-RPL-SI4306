@@ -64,4 +64,7 @@ ayahmu, tapi matamu mata ibumu."
 Paman Vernon mengeluarkan suara serak yang aneh. "Saya meminta Anda segera
 pergi, Sir!" katanya."Anda menjebol pintu dan masuk tanpa izin."
 
-
+case 3
+ 
+Paman Vernon mengeluarkan suara aneh lagi, seperti cicit tikus yang terinjak.
+"Yang jelas, Harry," kata si raksasa, berbalik membelakangi keluarga Dursley,
