@@ -65,3 +65,7 @@ Paman Vernon mengeluarkan suara serak yang aneh. "Saya meminta Anda segera
 pergi, Sir!" katanya."Anda menjebol pintu dan masuk tanpa izin."
 
 
+case 3
+Harry menengadah menatap si raksasa. Dia bermaksud mengucapkan terima kasih,
+tetapi kata-katanya menghilang dalam perjalanan ke mulutnya, dan yang dikatakannya
+malah,"Siapa kau?"
