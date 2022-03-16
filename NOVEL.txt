@@ -44,6 +44,15 @@ Dia melangkah ke sofa. Dudley duduk membeku ketakutan.
 Dudley mencicit dan bersembunyi di belakang punggung ibunya. Bibi Petunia sendiri
 berjongkok ketakutan di belakang Paman Vernon.
 
+<<<<<<< HEAD
 "Nah, ini dia Harry!" kata si raksasa.
 Harry mendongak memandang wajah liar dan galak itu, dan melihat sudut mata
 kumbangnya berkerut penuh senyum.
+=======
+Paman Vernon mengeluarkan suara serak yang aneh. "Saya meminta Anda segera
+pergi, Sir!" katanya."Anda menjebol pintu dan masuk tanpa izin."
+
+>>>>>>> fe560ae0c78832f7674c546427e838dc51b2b64c
+
+"Terakhir kali aku melihatmu, kau masih bayi," kata si raksasa. "Kau mirip sekali
+ayahmu, tapi matamu mata ibumu."
